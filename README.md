@@ -5,6 +5,11 @@ After searching high and low for a non-technical illustration of basic git colla
 
 My purpose for this was as part of a presentation to convince a (predominantly non-technical) board of directors to open source their future products, by showing how both internal and external collaboration workflows benefit the community as a whole.
 
+**YouTube link:**
+
+* [https://youtu.be/2fi3om5JGnk](https://youtu.be/2fi3om5JGnk)
+
+
 **Possible uses:**
 
 * Explain git to management/non-technical stakeholders
